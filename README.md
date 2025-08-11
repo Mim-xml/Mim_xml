@@ -1,4 +1,4 @@
-![Mim_xml Singh Banner](https://i.pinimg.com/1200x/f0/26/84/f02684080e2fdad34f76e1f3166d71a6.jpg)
+![Mim_xml Singh Banner](https://i.pinimg.com/1200x/ad/f9/6e/adf96e45c4b875dc7eacc6b3ad96fd26.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Mim</h2>
 
@@ -14,7 +14,7 @@
 
 
 
-<img alt="Hua Cheng" src="https://i.pinimg.com/originals/f8/7b/0f/f87b0fbd1780078472c3ea3937bf9fa6.gif" align="right"/>
+<img alt="Hua Cheng" src="https://i.pinimg.com/originals/3b/3e/8b/3b3e8b5035898a885276453ee3ddb5df.gif" align="right"/>
 
 ### 🍓 &nbsp;Tech Stack
 
