@@ -1,20 +1,27 @@
-![Mim_xml Singh Banner](https://i.pinimg.com/1200x/ad/f9/6e/adf96e45c4b875dc7eacc6b3ad96fd26.jpg)
+![Mim_xml Singh Banner](https://i.pinimg.com/1200x/e8/b3/22/e8b322f10201cf1f5bb6e130bad50acf.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Mim</h2>
 
 <p align="center">
   <em>
-  Hello, I am Mim a <b>third year</b> undergraduate from <a href="https://www.unan.edu.ni/"> <b>University Of UNAN-Managua</b>, CUR-Esteli ")</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://media.tenor.com/WILOSfQPu-AAAAAm/my-melodoy.webp" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://media.tenor.com/sUz9HU2JmzMAAAAm/cinnamoroll.webp" width="36px">&nbsp<br>who is <b>obsessed</b>
-    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
+   Hello, I am Mim a <b>Programming student</b> from 
+<a href="https://www.tecnacional.edu.ni/centro/centro-tecnologico-francisco-rivera-quintero/">
+  <b>Technological Center Francisco Rivera Quintero “El Zorro” (INATEC – Estelí)</b>
+</a>. <br>
+<b>a passionate self-learner</b> 
+<img src="https://media.tenor.com/WILOSfQPu-AAAAAm/my-melodoy.webp" width="30px"> 
+and a <b>Machine Learning Engineer</b>&nbsp;
+<img src="https://media.tenor.com/sUz9HU2JmzMAAAAm/cinnamoroll.webp" width="36px">&nbsp;<br>
+who is <b>obsessed</b> with <b>Data science</b> and always looking to find patterns of which are hidden in the data
+  </em> 
   <br>
-  <img src="https://media.tenor.com/QB6fn25I90QAAAAm/minihana-lovely.webp" width="50" /> <b><i align="center">Thought : "As a lazy hedgehog with coffee in hand, I believe that life is basically a marathon of naps and sips of liquid magic.”</i></b> <img src="https://media.tenor.com/JVresgLJNtkAAAAm/borboletas-butterflies.webp" width="50" />
+  <img src="https://media.tenor.com/t_nQNJ-L8KUAAAAm/sleepy-bunny-lovely.webp" width="50" /> <b><i align="center">Thought : "As a lazy hedgehog with coffee in hand, I believe that life is basically a marathon of naps and sips of liquid magic.”</i></b> <img src="https://media.tenor.com/JVresgLJNtkAAAAm/borboletas-butterflies.webp" width="50" />
 </p>
 <br><br>
 
 
 
-<img alt="Hua Cheng" src="https://i.pinimg.com/originals/3b/3e/8b/3b3e8b5035898a885276453ee3ddb5df.gif" align="right"/>
+<img alt="Hua Cheng" src="https://i.pinimg.com/originals/f8/7b/0f/f87b0fbd1780078472c3ea3937bf9fa6.gif" align="right"/>
 
 ### 🍓 &nbsp;Tech Stack
 
@@ -33,4 +40,4 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" ># Mim_xml
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
